@@ -1,0 +1,12 @@
+[package]
+name = "lambda-parse"
+version = "0.1.0"
+authors = ["Michael Färber <michael.faerber@gedenkt.at>"]
+edition = "2021"
+description = "Parsers for lambda terms"
+repository = "https://github.com/01mf02/lambda-parse"
+license = "GPL-3.0-only"
+categories = ["no-std", "parser-implementations"]
+
+[dependencies]
+logos = "0.12"
